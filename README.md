@@ -47,17 +47,29 @@ The project doesn't just generate text; it evaluates its own performance using f
 
 ## 🛠️ Setup & Usage
 
-1. **Install Dependencies**:
+1. **Clone & Enter Repository**:
+   ```bash
+   git clone https://github.com/vijaykrishnaaa/fitness-genai-planner.git
+   cd fitness-genai-planner
+   ```
+
+2. **Set up Virtual Environment**:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use: venv\Scripts\activate
+   ```
+
+3. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
 
-2. **Run Application**:
+4. **Run Application**:
    ```bash
    streamlit run app/app.py
    ```
 
-3. **Experiments Mode**:
+5. **Experiments Mode**:
    For automated batch testing of multiple profiles:
    ```bash
    python main.py

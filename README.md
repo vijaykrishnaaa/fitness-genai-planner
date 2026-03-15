@@ -1,6 +1,6 @@
 # 💪 Constraint-Aware AI Fitness Planner
 
-A sophisticated **Generative AI System** designed to bridge the gap between creative LLM generation and rigid biological constraints. Built for the Amrita Vishwa Vidyapeetham Generative AI Course (Team 32).
+A sophisticated **Generative AI System** designed to bridge the gap between creative LLM generation and rigid biological constraints.
 
 ---
 

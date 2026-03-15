@@ -42,13 +42,14 @@ The project follows a **Modular Layered Architecture**:
 
 ### 6️⃣ How do you calculate calories or constraints?
 The system uses medical-standard formulas:
-- **Basal Metabolic Rate (BMR)**: Mifflin-St Jeor Equation.
+- **Basal Metabolic Rate (BMR)**: Calculated via the **Mifflin-St Jeor Equation**:
+  - `BMR = 10 * weight(kg) + 6.25 * height(cm) - 5 * age(y) + (5 for male / -161 for female)`
 - **Total Daily Energy Expenditure (TDEE)**: BMR × Activity Multiplier (1.2 to 1.9).
 - **Target Calories**: TDEE modified by Goal (Gain: +300, Loss: -500, Maintain: 0).
-- **Protein Targets**: 
-  - Fat Loss: 2.0g per kg
-  - Muscle Gain: 2.2g per kg
-  - Maintenance: 1.6g per kg
+- **Protein Targets (Actual Implementation)**:
+  - **Muscle Gain**: 2.2g per kg (High intensity support)
+  - **Fat Loss**: 2.0g per kg (Muscle preservation)
+  - **Maintenance**: 1.6g per kg (Standard requirement)
 
 ### 7️⃣ What output does your system generate?
 Each generation results in a complete **Constraint-Verified Plan**:

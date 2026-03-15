@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Aditya",
+    "age": 22,
+    "gender": "male",
+    "weight_kg": 75,
+    "height_cm": 175,
+    "goal": "muscle_gain",
+    "diet_preference": "vegetarian",
+    "workout_time_minutes": 60,
+    "activity_level": "moderate"
+  },
+  {
+    "name": "Priya",
+    "age": 28,
+    "gender": "female",
+    "weight_kg": 60,
+    "height_cm": 160,
+    "goal": "fat_loss",
+    "diet_preference": "vegetarian",
+    "workout_time_minutes": 40,
+    "activity_level": "light"
+  },
+  {
+    "name": "Rahul",
+    "age": 35,
+    "gender": "male",
+    "weight_kg": 85,
+    "height_cm": 178,
+    "goal": "fat_loss",
+    "diet_preference": "non-vegetarian",
+    "workout_time_minutes": 45,
+    "activity_level": "moderate"
+  },
+  {
+    "name": "Sneha",
+    "age": 24,
+    "gender": "female",
+    "weight_kg": 55,
+    "height_cm": 162,
+    "goal": "maintenance",
+    "diet_preference": "vegetarian",
+    "workout_time_minutes": 30,
+    "activity_level": "light"
+  },
+  {
+    "name": "Vikram",
+    "age": 42,
+    "gender": "male",
+    "weight_kg": 90,
+    "height_cm": 172,
+    "goal": "fat_loss",
+    "diet_preference": "non-vegetarian",
+    "workout_time_minutes": 50,
+    "activity_level": "sedentary"
+  }
+]

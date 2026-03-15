@@ -1,0 +1,16 @@
+{
+  "avg_ccss": 0.9992,
+  "min_ccss": 0.9963,
+  "max_ccss": 1.0,
+  "avg_par": 0.8507,
+  "min_par": 0.1667,
+  "max_par": 1.0333,
+  "avg_wbs": 0.8,
+  "min_wbs": 0.75,
+  "max_wbs": 1.0,
+  "avg_compliance_rate": 0.95,
+  "min_compliance_rate": 0.75,
+  "max_compliance_rate": 1.0,
+  "diet_ok_rate": 1.0,
+  "num_profiles_tested": 5
+}

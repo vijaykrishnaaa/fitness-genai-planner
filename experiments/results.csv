@@ -1,0 +1,6 @@
+ccss,par,wbs,diet_ok,compliance_rate,timestamp,profile_name,goal,diet
+1.0,1.0242,1.0,True,1.0,2026-03-14T23:55:10.491055,Aditya,muscle_gain,vegetarian
+1.0,1.0333,0.75,True,1.0,2026-03-14T23:55:12.306103,Priya,fat_loss,vegetarian
+0.9963,1.0294,0.75,True,1.0,2026-03-14T23:55:14.148614,Rahul,fat_loss,non-vegetarian
+0.9999,1.0,0.75,True,1.0,2026-03-14T23:55:15.787130,Sneha,maintenance,vegetarian
+1.0,0.1667,0.75,True,0.75,2026-03-14T23:55:18.019120,Vikram,fat_loss,non-vegetarian

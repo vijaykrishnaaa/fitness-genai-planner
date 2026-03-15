@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Streamlit
+.streamlit/config.toml # Optional: remove if you want to keep the custom theme on GitHub
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db

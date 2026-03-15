@@ -87,5 +87,3 @@ The project doesn't just generate text; it evaluates its own performance using f
 ## 👨‍💻 Note for Reviewers
 This project demonstrates the transition from a simple "Prompt Engineer" to a **"GenAI Architect."** It solves the critical problem of LLM hallucinations in health-tech by enforcing scientific constraints through a multi-layered validation pipeline.
 
----
-*Developed for Academic Purposes only. Not medical advice.*
